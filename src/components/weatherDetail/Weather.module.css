@@ -1,0 +1,27 @@
+.container {
+  background-color: var(--white);
+  color: #000;
+  border-radius: 1rem;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.current {
+  font-size: 6rem;
+  font-weight: 900;
+  margin: 2.5rem 0;
+}
+
+.minmax {
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+}
+
+.minmax p {
+  font-weight: 900;
+}
+
+.minmax span {
+  font-weight: 400;
+}
